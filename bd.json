@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "Mariana Souza Santos",
+    "cpf": "289.541.763-12",
+    "cep": "80030-000",
+    "nascimento": "1993-03-08",
+    "rua": "Avenida João Gualberto",
+    "numero": "510",
+    "bairro": "Alto da Glória",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "mariana.santos@email.com",
+    "celular": "(41) 99234-5678",
+    "senha": "Mari#2026"
+  },
+  {
+    "nome": "Carlos Eduardo Rocha",
+    "cpf": "512.639.847-90",
+    "cep": "81020-010",
+    "nascimento": "1988-07-19",
+    "rua": "Rua Winston Churchill",
+    "numero": "1235",
+    "bairro": "Pinheirinho",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "carlos.rocha@email.com",
+    "celular": "(41) 98876-5432",
+    "senha": "CadueRocha88"
+  },
+  {
+    "nome": "Juliana Meireles Cruz",
+    "cpf": "145.892.367-54",
+    "cep": "80240-020",
+    "nascimento": "2001-01-30",
+    "rua": "Rua Bento Viana",
+    "numero": "467",
+    "bairro": "Água Verde",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "ju.meireles@email.com",
+    "celular": "(41) 99543-2109",
+    "senha": "Juju@Winter!"
+  },
+  {
+    "nome": "Felipe Augusto Lima",
+    "cpf": "734.126.598-23",
+    "cep": "80050-540",
+    "nascimento": "1996-12-05",
+    "rua": "Rua XV de Novembro",
+    "numero": "2040",
+    "bairro": "Centro",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "felipe.lima@email.com",
+    "celular": "(41) 98122-3344",
+    "senha": "FelipeL96"
+  }
+]
